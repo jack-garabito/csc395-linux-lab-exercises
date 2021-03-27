@@ -3,3 +3,5 @@ all:
     az-workstation:
       ansible_host: localhost
       ansible_connection: local
+    ansible-lab-host1:
+      ansible_host: 10.1.2.4
