@@ -1,1 +1,4 @@
 roles/*
+bin/**/*
+lib/**/*
+pyvenv.cfg
